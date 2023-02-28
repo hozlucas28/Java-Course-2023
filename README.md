@@ -30,7 +30,7 @@
     Installation
 </h2>
 <p>
-    Clone the repository, install <a href="https://www.oracle.com/ar/java/technologies/downloads/" target="_blank">Java</a> and use <a href="https://www.eclipse.org/" target="_blank">Eclipse IDE</a>. That's all! Now open "Java-Course-2023" repository as project in the Eclipse IDE and press "Run" button to test current java file. You are going to see a result in your terminal.
+    Clone the repository, install <a href="https://www.oracle.com/ar/java/technologies/downloads/" target="_blank">Java</a> and use <a href="https://www.eclipse.org/" target="_blank">Eclipse IDE</a>. That's all! Now open "Java-Course-2023" repository as project in the Eclipse IDE and press "Run" button to test your current java file. You are going to see a result in your terminal.
 </p>
 
 <p>
