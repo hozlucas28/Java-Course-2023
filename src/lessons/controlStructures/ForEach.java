@@ -1,7 +1,8 @@
 /* --------------------------------------------------------------------------
  * APUNTES:
- * 		   Los <forEach> me permiten recorrer <arrays> (arreglos) o matrices
- *		   multidimensionales obteniendo los elementos que los/las componen.
+ * 		   Los <forEach> me permiten recorrer <arrays> (arreglos),
+ *		   <ArrayList>, <Set> y matrices multidimensionales obteniendo los
+ *		   elementos que los/las componen.
 -------------------------------------------------------------------------- */
 
 package lessons.controlStructures;
