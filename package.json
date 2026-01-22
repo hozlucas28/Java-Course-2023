@@ -10,6 +10,6 @@
 		"husky": "^8.0.3",
 		"lint-staged": "^13.1.2",
 		"prettier": "^2.8.1",
-		"prettier-plugin-java": "^2.0.0"
+		"prettier-plugin-java": "^2.7.0"
 	}
 }
